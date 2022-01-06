@@ -1,3 +1,7 @@
+井字棋，可以查看历史记录，未使用数据库，初始版本
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
